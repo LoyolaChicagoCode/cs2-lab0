@@ -4,7 +4,7 @@ Implement your solution to the recurring rainfall problem as a working Java prog
 
 *Reflection:* What specific changes do you need to make to enable automatic testing for your code? At least how many test cases should you have, and which ones (a high-level description is sufficient).
 
-*Submission:* Add a readme file including your reflection and any other thoughts. In IDEA, export your project as a zip file and attach here.
+*Submission:* Add a readme file including your reflection and any other thoughts. In IDEA, export your project as a zip file and submit as directed.
 
 *Grading (total 5)*
 
