@@ -1,6 +1,6 @@
 # Loyola COMP 271 Design Activity 0
 
-## Group project
+## Group activity
 
 Implement your solution to the recurring rainfall problem as a working Java program.
 
