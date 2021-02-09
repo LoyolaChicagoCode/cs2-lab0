@@ -1,4 +1,4 @@
-# Loyola COMP 271 Design Activity 0
+# Loyola COMP 271 Implementation Activity 0
 
 ## Group activity
 
