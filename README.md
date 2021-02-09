@@ -14,7 +14,7 @@ What specific changes do you need to make to enable automatic testing for your c
 
 # Submission
 
-Add a readme file including your reflection and any other thoughts. In IDEA, export your project as a zip file and submit as directed.
+Add a readme file including your reflection and any other thoughts. In IDEA, export your project as a zip file and (individually) submit as directed.
 
 # Grading (total 5)
 
