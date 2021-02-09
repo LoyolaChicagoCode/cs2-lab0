@@ -1,3 +1,7 @@
+# Loyola COMP 271 Design Activity 0
+
+## Group project
+
 Implement your solution to the recurring rainfall problem as a working Java program.
 
 *Functional requirements:* Your program should behave as discussed in class. Input items (whole and/or floating point numbers) can be spread over one or more lines. If there is at least one input item, the program prints the resulting average and exits. If there is no valid numerical input item, the program prints nothing and exits.
