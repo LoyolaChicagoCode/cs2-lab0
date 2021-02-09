@@ -4,13 +4,19 @@
 
 Implement your solution to the recurring rainfall problem as a working Java program.
 
-*Functional requirements:* Your program should behave as discussed in class. Input items (whole and/or floating point numbers) can be spread over one or more lines. If there is at least one input item, the program prints the resulting average and exits. If there is no valid numerical input item, the program prints nothing and exits.
+# Functional requirements
 
-*Reflection:* What specific changes do you need to make to enable automatic testing for your code? At least how many test cases should you have, and which ones (a high-level description is sufficient).
+Your program should behave as discussed in class. Input items (whole and/or floating point numbers) can be spread over one or more lines. If there is at least one input item, the program prints the resulting average and exits. If there is no valid numerical input item, the program prints nothing and exits.
 
-*Submission:* Add a readme file including your reflection and any other thoughts. In IDEA, export your project as a zip file and submit as directed.
+# Reflection
 
-*Grading (total 5)*
+What specific changes do you need to make to enable automatic testing for your code? At least how many test cases should you have, and which ones (a high-level description is sufficient).
+
+# Submission
+
+Add a readme file including your reflection and any other thoughts. In IDEA, export your project as a zip file and submit as directed.
+
+# Grading (total 5)
 
 -    2 submission exists
 -    0.5 correct average calculation for one or more inputs
