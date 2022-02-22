@@ -16,7 +16,7 @@ What specific changes do you need to make to enable automatic testing for your c
 
 Add a readme file including your reflection and any other thoughts. In IDEA, export your project as a zip file and (individually) submit as directed.
 
-# Grading (total 5)
+# Grading (total 5 points)
 
 -    2 submission exists
 -    0.5 correct average calculation for one or more inputs
