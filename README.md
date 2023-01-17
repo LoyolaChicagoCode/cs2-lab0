@@ -24,7 +24,7 @@ What additional changes would you need to make to enable automatic testing for y
 
 Add a readme file including your reflection and any other thoughts. Submit via Repl.it as discussed in class.
 
-# Grading (total 5 points)
+## Grading (total 5 points)
 
 -    1 submission via Replit
 -    1 correct average calculation for one or more inputs
