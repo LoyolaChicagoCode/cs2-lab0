@@ -20,6 +20,15 @@ What additional changes would you need to make to enable automatic testing for y
 
 (Keep your reflection brief and at a high, conceptual level.)
 
+## References
+
+You might find these constructs and building blocks from COMP 170 useful:
+
+- conditionals
+- indefinite loops
+- methods
+- Scanner
+
 ## Submission
 
 Add a readme file including your reflection and any other thoughts. Submit via Repl.it as discussed in class.
