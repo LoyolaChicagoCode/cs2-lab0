@@ -1,6 +1,6 @@
 # Loyola COMP 271 Lab 0
 
-## Group activity
+*Group activity*
 
 ## Functional requirements
 
