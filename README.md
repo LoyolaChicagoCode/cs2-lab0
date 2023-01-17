@@ -2,6 +2,15 @@
 
 *Group activity*
 
+## Prerequisites
+
+You might find these constructs and building blocks from COMP 170 useful:
+
+- conditionals
+- indefinite loops
+- methods
+- Scanner
+
 ## Functional requirements
 
 Recurring rainfall calculation: Design a program called Rainfall that reads a list of numbers from the standard input (console) representing daily rainfall amounts as entered by a user. Produce the average of the non-negative values in the list up to *end of file (EOF)* as discussed in class. There may be negative numbers in the list, but the program should ignore them.
@@ -19,15 +28,6 @@ For each functional and nonfunctional requirements, what are one or more design 
 What additional changes would you need to make to enable automatic testing for your code? At least how many test cases should you have, and which ones?
 
 (Keep your reflection brief and at a high, conceptual level.)
-
-## References
-
-You might find these constructs and building blocks from COMP 170 useful:
-
-- conditionals
-- indefinite loops
-- methods
-- Scanner
 
 ## Submission
 
