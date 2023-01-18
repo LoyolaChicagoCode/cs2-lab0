@@ -31,7 +31,7 @@ What additional changes would you need to make to enable automatic testing for y
 
 ## Submission
 
-Add a readme file including your reflection and any other thoughts. Submit via Repl.it as discussed in class.
+Add an Answers.md file including your reflection and any other thoughts. Submit via Replit as discussed in class.
 
 ## Grading (total 5 points)
 
@@ -41,4 +41,4 @@ Add a readme file including your reflection and any other thoughts. Submit via R
 -    0.5 detect EOF (rather than specific sentinel value) following Scanner-based idiom
 -    0.5 input can have zero or more double values on each line
 -    0.5 good coding style (indentation, use of final everywhere except when a variable has to be updated one or more times)
--    1 meaningful reflection (three or more sentences) preferably in readme file
+-    1 meaningful reflection (three or more sentences) preferably in Answers.md file
