@@ -1,4 +1,4 @@
-# Loyola COMP 271 Lab 0: indefinite loops
+# Loyola COMP 271 Project 1: indefinite loops
 
 *Group activity*
 
